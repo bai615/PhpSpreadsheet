@@ -1,8 +1,8 @@
 {
-    "name": "phpoffice/phpspreadsheet",
+    "name": "bai615/phpspreadsheet",
     "description": "PHPSpreadsheet - Read, Create and Write Spreadsheet documents in PHP - Spreadsheet engine",
     "keywords": ["PHP", "OpenXML", "Excel", "xlsx", "xls", "ods", "gnumeric", "spreadsheet"],
-    "homepage": "https://github.com/PHPOffice/PhpSpreadsheet",
+    "homepage": "https://github.com/bai615/PhpSpreadsheet",
     "type": "library",
     "license": "LGPL-2.1-or-later",
     "authors": [
@@ -66,11 +66,6 @@
     "autoload": {
         "psr-4": {
             "PhpOffice\\PhpSpreadsheet\\": "src/PhpSpreadsheet"
-        }
-    },
-    "autoload-dev": {
-        "psr-4": {
-            "PhpOffice\\PhpSpreadsheetTests\\": "tests/PhpSpreadsheetTests"
         }
     }
 }
